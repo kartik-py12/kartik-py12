@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kartik-py12
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👌 I know python, html, css, javascript, mysql
+- 🌱 I’m currently learning Java and C++
 .
 
 <!---
