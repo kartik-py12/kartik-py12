@@ -26,13 +26,15 @@
 
 
 ``` markdown
-🎓 Pursuing a Bachelor's in Computer Science  
-👨‍💻 Passionate about full-stack development, currently mastering the MERN stack  
-🔭 Building e-commerce and social media apps, bringing ideas to life  
-🌱 Exploring Web3 with a focus on Solana and leveling up in DSA  
-💼 Open to collaboration on web and mobile projects—let’s build something awesome!  
-⚡ Fun fact: I built a tool that joins meetings and notifies me on WhatsApp  
-🎧 Coding with anime and music as my sidekicks
+🎓 Pursuing a Bachelor's in Computer Science
+👨‍💻 Focused on backend development with Node.js microservices| Comfortable with C++ for DSA
+🧠 Consistently grinding Striver Sheet to master DSA—no zero days!
+🚧 Building advanced full-stack projects (e-commerce with AI search, chat apps, note tools) using React, Tailwind, MongoDB
+⚙️ Learning DevOps alongside full-stack development to become job-ready for 20+ LPA roles
+🧪 Exploring LangChain, LLMs, and integrating AI into real-world apps
+📬 Built tools like meeting auto-joiners with WhatsApp alerts, and working on projects with AI-powered features
+🤝 Actively seeking high-impact internships and startup collaborations to accelerate learning
+🎧 Anime OSTs + music = the ultimate coding vibe
 
 ```
 [![](https://visitcount.itsvg.in/api?id=kartik-py12&icon=0&color=0)](https://visitcount.itsvg.in) <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100vw">
